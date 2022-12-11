@@ -36,3 +36,8 @@ This package contains a launch file that launches gazebo and runs the ros2 tutor
 
 This package is a partially completed package of the ros2 tutorial for creating a publisher and subscriber package.
 
+## spawn_robot
+
+This package launches gazebo and spawns a robot from its URDF.
+
+
