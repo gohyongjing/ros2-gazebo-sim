@@ -7,7 +7,7 @@ Contains the src/talker.py file
 
 ## How to recreate
 - Follow the instructions in the minimal_talker package, but naming the package as additonal_nodes instead 
-- Follow the ros2 instructions to make a simple publisher package in the same workspace (https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html). Your workspace should look like this now
+- Follow the ros2 instructions to make a simple publisher package in the same workspace (https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html). You can also use the py_pubsub package provided in this repository. Your workspace should look like this now
 ```
 ros2_ws
 |-src
