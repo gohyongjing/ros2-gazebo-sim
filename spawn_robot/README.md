@@ -3,6 +3,7 @@
 This package launches gazebo and spawns a robot from its URDF.
 
 Contains the /launch/gazebo.launch.py launch file
+
 Contains the /urdf/robot.urdf URDF
 
 ## How to recreate
@@ -43,7 +44,7 @@ import xacro
       spawn_entity,
   ])
 ```
-- Add the URDF for the robot (Edit with your text editor or copyand paste the file
+- Add the URDF for the robot (Edit with your text editor or copy and paste the file
 ```
 mkdir urdf
 touch urdf/robot.urdf.xacro
