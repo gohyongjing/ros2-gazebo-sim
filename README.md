@@ -28,4 +28,7 @@ source install/setup.bash
 
 This package contains a launch file that is a simple wrapper around the gazebo launch file. Use this to check that ros2 and gazebo is installed correctly.
 
-Contains the gazebo.launch.py launch file
+## additional_nodes
+
+This package contains a launch file that launches gazebo and runs the ros2 tutorial talker.py. Use this to add custom nodes into your project.
+
