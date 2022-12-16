@@ -32,12 +32,13 @@ This package contains a launch file that is a simple wrapper around the gazebo l
 
 This package contains a launch file that launches gazebo and runs the ros2 tutorial talker.py. Use this to add custom nodes into your project.
 
-## py_pubsub
-
-This package is a partially completed package of the ros2 tutorial for creating a publisher and subscriber package.
-
 ## spawn_robot
 
 This package launches gazebo and spawns a robot from its URDF.
 
+## mobile_robot
+This package launches a mobile robot following the tutorial by Articulated Robotics.
 
+## py_pubsub
+
+This package is a partially completed package of the ros2 tutorial for creating a publisher and subscriber package.
