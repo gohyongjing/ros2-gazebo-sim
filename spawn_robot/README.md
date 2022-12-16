@@ -7,7 +7,7 @@ Contains the /launch/gazebo.launch.py launch file
 Contains the /urdf/robot.urdf URDF
 
 ## How to recreate
-- Follow the instructions in the minimal_talker package, but naming the package as spawn_robot instead
+- Follow the instructions in the minimal_gazebo package, but naming the package as spawn_robot instead
 - Update gazebo.launch.py to spawn a robot based on urdf/robot.urdf.xacro
 ```
 from launch_ros.actions import Node
